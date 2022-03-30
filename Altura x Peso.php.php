@@ -12,7 +12,7 @@
     <fieldset>
         <h1>Escolha seu genero</h1>
      <input type="radio"name="operacao"id="m"  value="1">
-        <label for="masc">MASCULINO</label>aqui é o genero masculino<br>
+        <label for="masc">MASCULINO</label><br>
      <input type="radio" name="operacao"id="f" value="2">
         <label for="fem">FEMININO</label><br>
     </fieldset>
